@@ -1,0 +1,5 @@
+Bonjour,
+
+Ce projet consiste en la création d'un jeu de petit chevaux avec javaFX, parfois appelé "Ludo game", avec une interface permettant d'interagir sur le jeu.
+
+Pour lancer le problème, vous devez avoir la bibliothèque javaFX implémenté, et en mettant "--module-path "C:\Program Files\Java\javafx-sdk-11.0.2\lib" --add-modules javafx.controls,javafx.fxml" en argument de run configuration
